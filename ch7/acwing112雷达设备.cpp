@@ -1,5 +1,5 @@
-//acwing112闆疯揪璁惧
-//璐績
+//acwing112雷达设备
+//贪心 
 #include<iostream>
 #include<cstring>
 #include<cstdio>
