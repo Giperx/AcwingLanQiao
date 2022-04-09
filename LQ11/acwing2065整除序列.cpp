@@ -1,5 +1,5 @@
-//acwing2065æ•´é™¤åºåˆ—
-//æ¨¡æ‹Ÿ
+//acwing2065Õû³ıĞòÁĞ 
+//Ä£Äâ
 #include<iostream>
 #include<cstring>
 #include<algorithm>

@@ -9,7 +9,7 @@ int main(){
     int n = 0;
     cin >> n;
     LL tmp = 0;
-    LL res = 0, sum = 0; //res 重量之和， sum所需胶水之和
+    LL res = 0, sum = 0; //res重量之和，sum所需胶水之和
     for(int i = 0; i < n; i ++ ){
         scanf("%lld",&tmp);
         sum += (res * tmp);

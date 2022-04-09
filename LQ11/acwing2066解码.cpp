@@ -1,5 +1,5 @@
-//acwing2066è§£ç  
-//æ¨¡æ‹Ÿ å­—ç¬¦ä¸²å¤„ç† 
+//acwing2066½âÂë 
+//Ä£Äâ ×Ö·û´®´¦Àí 
 #include<iostream>
 #include<cstring>
 #include<algorithm>
@@ -27,7 +27,7 @@ int main(){
 } 
 
 
-#else //å°è¯• é€šè¿‡ 
+#else //³¢ÊÔ Í¨¹ı 
 char word[110];
 
 int main(){
@@ -52,3 +52,4 @@ int main(){
 	return 0;
 }
 #endif
+

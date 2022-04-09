@@ -1,5 +1,5 @@
-//acwing3416时间显示
-//模拟 字符串处理
+//acwing3416ʱ����ʾ
+//ģ�� �ַ�����ʾ 
 #include <iostream>
 #include <cstring>
 #include <cstdio>

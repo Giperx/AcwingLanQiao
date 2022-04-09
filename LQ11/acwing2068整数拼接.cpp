@@ -1,5 +1,5 @@
 //acwing2068整数拼接
-//枚举 哈希表
+//枚举 哈希
 #include<iostream>
 #include<cstdio>
 #include<algorithm>
@@ -15,7 +15,7 @@ int main()
 {
 	cin >> n >> k;
 	for(int i = 0; i < n; i++ ) scanf("%d", &a[i]);
-	for(int i = 0; i < n; i++ ){//初始化哈希表  
+	for(int i = 0; i < n; i++ ){// 初始化哈希表 
 		LL t = a[i] % k;
 		for(int j = 0; j < 11; j++ ){
 			hs[j][t] ++;

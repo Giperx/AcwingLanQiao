@@ -1,5 +1,5 @@
-//acwing1246绛夊樊鏁板垪
-//鏁拌
+//acwing1246等差数列 
+//数论 
 #include<iostream>
 #include<cstring>
 #include<algorithm>
